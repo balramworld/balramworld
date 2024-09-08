@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**balramworld/balramworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My GitHub Profile!
 
-Here are some ideas to get you started:
+<a href="https://yourwebsite.com">
+  <img src="https://yourimageurl.com/banner.png" alt="Banner" style="width:100%;">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/balramworld/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=balramworld&show_icons=true&theme=radical" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/balramworld/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=balramworld&theme=radical" alt="GitHub Streak">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/balramworld/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balramworld&layout=compact&theme=radical" alt="Top Languages">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=58a6ff&center=true&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG">
+</p>
+
+<details>
+  <summary>📊 My GitHub Stats</summary>
+  <br>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=balramworld&show_icons=true&count_private=true&theme=radical" alt="Stats" />
+  </p>
+</details>
